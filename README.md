@@ -44,9 +44,3 @@ I am a full-stack developer, machine learning engineer, and Android app develope
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
-### :fire: My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saravananchandrasekaran&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravananchandrasekaran&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
